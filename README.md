@@ -2,8 +2,11 @@
 <!-- BANNER Y HEADER DE SPECTINDUSTRIES           -->
 <!-- ============================================ -->
 
+<!-- Logo Principal -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:10B981&height=220&section=header&text=SpecTindustries&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Alberto%20Itriago%20%C2%B7%20Fullstack%20Developer%20%26%20SysAdmin&descSize=18&descAlignY=68" width="100%" />
+  <a href="https://github.com/specttitop">
+    <img src="https://raw.githubusercontent.com/specttitop/specttitop/main/assets/spect-logo.svg" alt="SpecTindustries Logo" width="100%" />
+  </a>
 </p>
 
 <!-- Terminal Header / Cyberpunk HUD Display -->
