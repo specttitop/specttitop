@@ -2,10 +2,10 @@
 <!-- BANNER Y HEADER DE SPECTINDUSTRIES           -->
 <!-- ============================================ -->
 
-<!-- Logo Principal -->
+<!-- Logo Principal (Ajustado a tamaño responsivo y estético) -->
 <p align="center">
   <a href="https://github.com/specttitop">
-    <img src="https://raw.githubusercontent.com/specttitop/specttitop/main/assets/spect-logo.svg" alt="SpecTindustries Logo" width="100%" />
+    <img src="https://raw.githubusercontent.com/specttitop/specttitop/main/assets/spect-logo.svg" alt="SpecTindustries Logo" width="220" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 
 <!-- Separador Neón -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=2" width="70%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=2" width="50%" />
 </p>
 
 <!-- Badges de Estado -->
