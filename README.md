@@ -11,7 +11,7 @@
 
 <!-- Terminal Header / Cyberpunk HUD Display (Ancho Móvil Nativo) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=22D3EE&center=true&vCenter=true&repeat=false&width=340&height=32&lines=%E2%96%B8+Spectindustries+-+by+-+Alberto+Itriago" alt="Spectindustries" width="340" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=22D3EE&center=true&vCenter=true&repeat=false&width=340&height=32&lines=%E2%96%B8+Spectindustries+-by-+Alberto+Itriago" alt="Spectindustries" width="340" />
 </p>
 
 <!-- Separador Neón -->
