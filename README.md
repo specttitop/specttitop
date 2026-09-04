@@ -10,7 +10,8 @@
 <div align="center">
   <pre>
   <span style="color: #22D3EE;">┌────────────────────────────────────────────────────────────────────────┐</span>
-  <span style="color: #22D3EE;">│</span> <span style="color: #7C3AED;">SPEC</span> <span style="color: #10B981;">●</span> <span style="color: #22D3EE;">OPERATOR 001</span> <span style="color: #94A3B8;">ONLINE</span> <span style="color: #10B981;">▸</span> <span style="color: #22D3EE;">Spectindustries - by - Alberto Itriago</span>   <span style="color: #22D3EE;">│</span>
+  <span style="color: #22D3EE;">│</span>
+  <span style="color: #94A3B8;">ONLINE</span> <span style="color: #10B981;">▸</span> <span style="color: #22D3EE;">Spectindustries - by - Alberto Itriago</span>   <span style="color: #22D3EE;">│</span>
   <span style="color: #22D3EE;">└────────────────────────────────────────────────────────────────────────┘</span>
   </pre>
 </div>
