@@ -2,9 +2,7 @@
   <a href="https://github.com/specttitop" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/specttitop/specttitop/main/assets/spect-logo.svg" alt="SpecTindustries Logo" width="130" align="center" style="margin-right: 15px;" />
   </a>
-  <a href="https://spectind.net" style="text-decoration: none;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:22D3EE&height=210&section=header&text=SPECTINDUSTRIES&fontSize=38&fontColor=ffffff&subtext=HIGH-PERFORMANCE%20DEVELOPMENT%20HUD&subFontSize=14&subColor=22D3EE&animation=twinkle" width="750" alt="SpecTindustries Header" align="center" />
-  </a>
+  
 </p>
 
 <p align="center">
