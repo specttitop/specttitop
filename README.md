@@ -1,14 +1,15 @@
 <p align="center">
+  <a href="https://github.com/specttitop">
+    <img src="https://raw.githubusercontent.com/specttitop/specttitop/main/assets/spect-logo.svg" alt="SpecTindustries Logo" width="120" />
+  </a>
+</p>
+<p align="center">
   <a href="https://spectind.net">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:22D3EE&height=220&section=header&text=SPECTINDUSTRIES&fontSize=40&fontColor=ffffff&subtext=HIGH-PERFORMANCE%20DEVELOPMENT%20HUD&subFontSize=15&subColor=22D3EE&animation=twinkle" width="100%" alt="SpecTindustries Header" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/specttitop">
-    <img src="https://raw.githubusercontent.com/specttitop/specttitop/main/assets/spect-logo.svg" alt="SpecTindustries Logo" width="120" />
-  </a>
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=22D3EE&center=true&vCenter=true&repeat=true&width=420&height=35&lines=%E2%96%B8+Spectindustries+-by-+Alberto+Itriago" alt="Spectindustries -by- Alberto Itriago" />
@@ -30,7 +31,7 @@
       <p><b>Soluciones en Programación y Estructuras Computacionales Técnicas (S.P.E.C.T.)</b></p>
       <p>Firma de desarrollo de software y administración de sistemas especializada en la construcción de plataformas web de alto rendimiento, sistemas administrativos y despliegue de infraestructura eficiente.</p>
       <ul>
-        <li>🏛️ <b>Liderazgo Técnico:</b> Fundada y dirigida por Alberto Itriago (TSU en Informática, Fullstack Developer & SysAdmin).</li>
+        <li>🏛️ <b>Liderazgo Técnico:</b> Fundada y dirigida por Alberto Itriago (Fullstack Developer & SysAdmin).</li>
         <li>⚡ <b>Enfoque Regional & Global:</b> Adaptabilidad operativa para el mercado local con integración multi-moneda (Tasa BCV, USD, USDT).</li>
         <li>🛡️ <b>Despliegues Avanzados:</b> Especialización en infraestructura VPS enjaulada, contenedores Docker y redes con acceso restringido a internet.</li>
         <li>🔧 <b>Capacidad Híbrida:</b> Integración completa desde la maquetación de interfaz hasta la seguridad hardening del servidor.</li>
