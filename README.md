@@ -1,8 +1,7 @@
 <p align="center">
-  <a href="https://github.com/specttitop" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/specttitop/specttitop/main/assets/spect-logo.svg" alt="SpecTindustries Logo" width="130" align="center" style="margin-right: 15px;" />
+  <a href="https://github.com/specttitop">
+    <img src="https://raw.githubusercontent.com/specttitop/specttitop/main/assets/spect-logo.svg" alt="SpecTindustries Logo" width="130" />
   </a>
-  
 </p>
 
 <p align="center">
@@ -18,24 +17,19 @@
 
 <hr />
 
-<table border="0" width="100%" style="background-color: transparent; border-collapse: collapse; border: 1px solid #0d1117;">
-  <tr style="border: 1px solid #0d1117; background-color: transparent;">
-    <td valign="top" width="65%" style="border: 1px solid #0d1117; background-color: transparent; padding-right: 15px;">
-      <h3>🏢 Sobre SpecTindustries</h3>
-      <p><b>Soluciones en Programación y Estructuras Computacionales Técnicas (S.P.E.C.T.)</b></p>
-      <p>Firma de desarrollo de software y administración de sistemas especializada en la construcción de plataformas web de alto rendimiento, sistemas administrativos y despliegue de infraestructura eficiente.</p>
-      <ul>
-        <li>🏛️ <b>Liderazgo Técnico:</b> Fundada y dirigida por Alberto Itriago (Fullstack Developer & SysAdmin).</li>
-        <li>⚡ <b>Enfoque Regional & Global:</b> Adaptabilidad operativa para el mercado local con integración multi-moneda (Tasa BCV, USD, USDT).</li>
-        <li>🛡️ <b>Despliegues Avanzados:</b> Especialización en infraestructura VPS enjaulada, contenedores Docker y redes con acceso restringido a internet.</li>
-        <li>🔧 <b>Capacidad Híbrida:</b> Integración completa desde la maquetación de interfaz hasta la seguridad hardening del servidor.</li>
-      </ul>
-    </td>
-    <td valign="middle" align="center" width="35%" style="border: 1px solid #0d1117; background-color: transparent;">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHM3aXkxcmp4aHRjMW9xazJ4OG00eTYxdXoxZmpsMnR6OTdndmd6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3P1yN6skKG/giphy.gif" width="220" alt="SpecTindustries HUD Display" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHM3aXkxcmp4aHRjMW9xazJ4OG00eTYxdXoxZmpsMnR6OTdndmd6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3P1yN6skKG/giphy.gif" width="220" alt="SpecTindustries HUD Display" />
+</p>
+
+### 🏢 Sobre SpecTindustries
+**Soluciones en Programación y Estructuras Computacionales Técnicas (S.P.E.C.T.)**
+
+Firma de desarrollo de software y administración de sistemas especializada en la construcción de plataformas web de alto rendimiento, sistemas administrativos y despliegue de infraestructura eficiente.
+
+* 🏛️ **Liderazgo Técnico:** Fundada y dirigida por Alberto Itriago (Fullstack Developer & SysAdmin).
+* ⚡ **Enfoque Regional & Global:** Adaptabilidad operativa para el mercado local con integración multi-moneda (Tasa BCV, USD, USDT).
+* 🛡️ **Despliegues Avanzados:** Especialización en infraestructura VPS enjaulada, contenedores Docker y redes con acceso restringido a internet.
+* 🔧 **Capacidad Híbrida:** Integración completa desde la maquetación de interfaz hasta la seguridad hardening del servidor.
 
 <hr />
 
@@ -43,27 +37,16 @@
 
 Ofrecemos soluciones digitales bajo una estructura de **pago único sumamente competitivo**, respaldadas por un esquema opcional de alojamiento y mantenimiento continuo:
 
-<table border="0" width="100%" style="background-color: transparent; border-collapse: collapse; border: 1px solid #0d1117;">
-  <tr style="border: 1px solid #0d1117; background-color: transparent;">
-    <td width="50%" valign="top" style="border: 1px solid #0d1117; background-color: transparent; padding-right: 15px;">
-      <h4>💻 Desarrollo Web & Sistemas</h4>
-      <ul>
-        <li><b>Landing Pages:</b> Conversión optimizada, ultra-rápidas y CMS adaptado <i>(Desde $60)</i>.</li>
-        <li><b>Sitios Corporativos:</b> Presencia institucional jerárquica y administrable <i>(Desde $80)</i>.</li>
-        <li><b>E-commerce:</b> Tiendas online integradas con pasarelas locales e internacionales <i>(Desde $140)</i>.</li>
-        <li><b>Sistemas Web & Dashboards:</b> Control de datos, módulos CRUD, PWA y paneles métricos en tiempo real <i>(Desde $160)</i>.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" style="border: 1px solid #0d1117; background-color: transparent; padding-left: 15px;">
-      <h4>🖧 Infraestructura & Mantenimiento</h4>
-      <ul>
-        <li><b>Hosting + Mantenimiento VPS:</b> Servidores dedicados optimizados (Contabo Cloud + Cloudflare CDN/SSL), respaldos y monitoreo <i>($30/mes)</i>.</li>
-        <li><b>Optimización WPO:</b> Auditoría técnica y aceleración de tiempos de carga <i>(Desde $70)</i>.</li>
-        <li><b>SysAdmin & Hardening:</b> Encorralamiento SFTP, autenticación segura 2FA y configuración de redes locales/restringidas.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+#### 💻 Desarrollo Web & Sistemas
+* **Landing Pages:** Conversión optimizada, ultra-rápidas y CMS adaptado *(Desde $60)*.
+* **Sitios Corporativos:** Presencia institucional jerárquica y administrable *(Desde $80)*.
+* **E-commerce:** Tiendas online integradas con pasarelas locales e internacionales *(Desde $140)*.
+* **Sistemas Web & Dashboards:** Control de datos, módulos CRUD, PWA y paneles métricos en tiempo real *(Desde $160)*.
+
+#### 🖧 Infraestructura & Mantenimiento
+* **Hosting + Mantenimiento VPS:** Servidores dedicados optimizados (Contabo Cloud + Cloudflare CDN/SSL), respaldos y monitoreo *($30/mes)*.
+* **Optimización WPO:** Auditoría técnica y aceleración de tiempos de carga *(Desde $70)*.
+* **SysAdmin & Hardening:** Encorralamiento SFTP, autenticación segura 2FA y configuración de redes locales/restringidas.
 
 <blockquote align="center">
   <b>💡 Garantía de Proyecto:</b> Todos nuestros desarrollos incluyen optimización SEO inicial, certificado SSL, automatización de sitemaps y 1 mes completo de soporte post-entrega sin costo adicional.
@@ -90,18 +73,15 @@ Ofrecemos soluciones digitales bajo una estructura de **pago único sumamente co
 
 <hr />
 
-<table border="0" width="100%" style="background-color: transparent; border-collapse: collapse; border: 1px solid #0d1117;">
-  <tr style="border: 1px solid #0d1117; background-color: transparent;">
-    <td align="left" valign="middle" style="border: 1px solid #0d1117; background-color: transparent;">
-      <p><b>🌐 Sitio Web Oficial:</b> <a href="https://spectind.net">spectind.net</a></p>
-      <p><b>💬 Atención Comercial (WhatsApp):</b> <a href="https://wa.me/584124949903">+58 412-494-9903</a></p>
-      <p><b>✉️ Correo Institucional:</b> <a href="mailto:Alberto13jih@gmail.com">Alberto13jih@gmail.com</a></p>
-    </td>
-    <td align="right" valign="middle" style="border: 1px solid #0d1117; background-color: transparent;">
-      <img src="https://komarev.com/ghpvc/?username=specttitop&label=PROFILE+VIEWS&color=7C3AED&style=flat-square" alt="Visitas al perfil institucional" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  🌐 <b>Sitio Web Oficial:</b> <a href="https://spectind.net">spectind.net</a><br />
+  💬 <b>Atención Comercial (WhatsApp):</b> <a href="https://wa.me/584124949903">+58 412-494-9903</a><br />
+  ✉️ <b>Correo Institucional:</b> <a href="mailto:Alberto13jih@gmail.com">Alberto13jih@gmail.com</a>
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=specttitop&label=PROFILE+VIEWS&color=7C3AED&style=flat-square" alt="Visitas al perfil institucional" />
+</p>
 
 <p align="center">
   <sub><b>SpecTindustries</b> — High-Performance Development HUD. Soluciones web, arquitectura de sistemas y administración de infraestructura.</sub>
