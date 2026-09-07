@@ -1,14 +1,17 @@
-<p align="center">
-  <a href="https://github.com/specttitop">
-    <img src="https://raw.githubusercontent.com/specttitop/specttitop/main/assets/spect-logo.svg" alt="SpecTindustries Logo" width="120" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://spectind.net">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:22D3EE&height=220&section=header&text=SPECTINDUSTRIES&fontSize=40&fontColor=ffffff&subtext=HIGH-PERFORMANCE%20DEVELOPMENT%20HUD&subFontSize=15&subColor=22D3EE&animation=twinkle" width="100%" alt="SpecTindustries Header" />
-  </a>
-</p>
-
+<table border="0" width="100%">
+  <tr>
+    <td align="center" valign="middle" width="15%">
+      <a href="https://github.com/specttitop">
+        <img src="https://raw.githubusercontent.com/specttitop/specttitop/main/assets/spect-logo.svg" alt="SpecTindustries Logo" width="100" />
+      </a>
+    </td>
+    <td align="center" valign="middle" width="85%">
+      <a href="https://spectind.net">
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:22D3EE&height=200&section=header&text=SPECTINDUSTRIES&fontSize=38&fontColor=ffffff&subtext=HIGH-PERFORMANCE%20DEVELOPMENT%20HUD&subFontSize=14&subColor=22D3EE&animation=twinkle" width="100%" alt="SpecTindustries Header" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 <p align="center">
