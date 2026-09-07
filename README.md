@@ -1,13 +1,18 @@
+<!-- ============================================ -->
+<!-- HEADER & LOGO                                -->
+<!-- ============================================ -->
 <p align="center">
   <a href="https://github.com/specttitop">
     <img src="https://raw.githubusercontent.com/specttitop/specttitop/main/assets/spect-logo.svg" alt="SpecTindustries Logo" width="130" />
   </a>
 </p>
 
+<!-- Subtítulo Animado / Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=22D3EE&center=true&vCenter=true&repeat=true&width=420&height=35&lines=%E2%96%B8+Spectindustries+-by-+Alberto+Itriago" alt="Spectindustries -by- Alberto Itriago" />
 </p>
 
+<!-- Badges de Estado e Infraestructura -->
 <p align="center">
   <img src="https://img.shields.io/badge/SYSTEM-ONLINE-059669?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/CORE_STACK-Next.js_%7C_Laravel-030712?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -16,6 +21,10 @@
 </p>
 
 <hr />
+
+<!-- ============================================ -->
+<!-- VISIÓN GENERAL DE LA ORGANIZACIÓN            -->
+<!-- ============================================ -->
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHM3aXkxcmp4aHRjMW9xazJ4OG00eTYxdXoxZmpsMnR6OTdndmd6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3P1yN6skKG/giphy.gif" width="220" alt="SpecTindustries HUD Display" />
@@ -32,6 +41,10 @@ Firma de desarrollo de software y administración de sistemas especializada en l
 * 🔧 **Capacidad Híbrida:** Integración completa desde la maquetación de interfaz hasta la seguridad hardening del servidor.
 
 <hr />
+
+<!-- ============================================ -->
+<!-- MODELO COMERCIAL & PORTAFOLIO DE SERVICIOS   -->
+<!-- ============================================ -->
 
 ### 🚀 Portafolio de Servicios (Modelo High-Volume / Low-Cost)
 
@@ -54,6 +67,10 @@ Ofrecemos soluciones digitales bajo una estructura de **pago único sumamente co
 
 <hr />
 
+<!-- ============================================ -->
+<!-- STACK TECNOLÓGICO DOMINANTE                 -->
+<!-- ============================================ -->
+
 ### 🛠️ Ecosistema Tecnológico de la Firma
 
 <p align="left">
@@ -72,6 +89,29 @@ Ofrecemos soluciones digitales bajo una estructura de **pago único sumamente co
 </p>
 
 <hr />
+
+<!-- ============================================ -->
+<!-- CONTRIBUTION SNAKE                          -->
+<!-- ============================================ -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/specttitop/specttitop/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/specttitop/specttitop/output/github-snake.svg" />
+    <img alt="Snake eating contributions"
+         src="https://raw.githubusercontent.com/specttitop/specttitop/output/github-snake.svg" />
+  </picture>
+</div>
+
+<hr />
+
+<!-- ============================================ -->
+<!-- CANALES INSTITUCIONALES DE CONTACTO          -->
+<!-- ============================================ -->
 
 <p align="left">
   🌐 <b>Sitio Web Oficial:</b> <a href="https://spectind.net">spectind.net</a><br />
