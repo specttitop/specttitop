@@ -33,7 +33,7 @@ Firma de desarrollo de software y administración de sistemas especializada en l
 
 <hr />
 
-### <img src="https://api.iconify.design/tabler:rocket.svg?color=%2322d3ee" width="20" height="20" align="center" /> Portafolio de Servicios (Modelo High-Volume / Low-Cost)
+### <img src="https://api.iconify.design/tabler:rocket.svg?color=%2322d3ee" width="20" height="20" align="center" /> Servicios (Modelo High-Volume / Low-Cost)
 
 Ofrecemos soluciones digitales bajo una estructura de **pago único sumamente competitivo**, respaldadas por un esquema opcional de alojamiento y mantenimiento continuo:
 
